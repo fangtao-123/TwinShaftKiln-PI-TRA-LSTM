@@ -1,6 +1,6 @@
 <div align="center">
 
-# Kiln-R1: Physics-Informed Temporal Re-Attention LSTM for Twin-Shaft Lime Kilns
+# Learning a Physics-Informed Temporal Re-Attention LSTM Network for Temperature Process Modeling in Twin-Shaft Lime Kilns
 
 **Learning a Physics-Informed Temporal Re-Attention LSTM Network for Temperature Process Modeling in Twin-Shaft Lime Kilns**
 
