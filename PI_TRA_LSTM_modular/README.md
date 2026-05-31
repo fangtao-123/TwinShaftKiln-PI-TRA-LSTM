@@ -2,8 +2,6 @@
 
 # Kiln-R1: Physics-Informed Temporal Re-Attention LSTM for Twin-Shaft Lime Kilns
 
-**Learning a Physics-Informed Temporal Re-Attention LSTM Network for Temperature Process Modeling in Twin-Shaft Lime Kilns**
-
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-1.13%2B-ee4c2c)
 ![Task](https://img.shields.io/badge/Task-Lime%20Kiln%20Forecasting-2f855a)
